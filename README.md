@@ -65,7 +65,6 @@ else:
 ## Output:
 
 <img width="858" height="188" alt="image" src="https://github.com/user-attachments/assets/dde04341-057f-4a9e-87b4-2295bf9283a0" />
-Result:
 
 ## Result
 The sentiment of the given reviews was successfully analyzed using the VADER sentiment analyzer:
